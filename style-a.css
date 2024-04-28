@@ -1,0 +1,51 @@
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+     background-color: #1a1414;
+     background-image: url(https://th.bing.com/th/id/OIG1.hMb8cHScXShqwf13kTom?w=1024&h=1024&rs=1&pid=ImgDetMain);
+     background-size: cover;
+    }
+    
+    h2 {
+    color: #fff;
+    text-align: center;
+    font-size:xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif
+    }
+    
+    p {
+    color: #2a2727;
+    text-align:justify;
+    margin-left: 50px;
+    margin-right: 50px; ;
+    }
+    .card {
+    background-color: #fff;
+    border-radius: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 600px; 
+    margin: 10px auto;
+        }
+        .menu-link1,
+        .menu-link2 {
+            background-color: #fff;
+            border-radius: 30px;
+            font-size: larger; 
+            box-shadow: 0 2px 4px rgba(253, 253, 253, 0.1);
+            padding: 20px;
+            max-width: 230px; 
+            display: inline-block;
+            margin-right: 20px;
+        }
+        
+        .menu-link2 {
+            position: fixed;
+            left: 1500px;
+            top: 25px;
+        }
+        
+        .menu-link1 {
+            position: fixed;
+        }
