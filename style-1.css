@@ -42,10 +42,12 @@ margin: 10px auto;
     
     .menu-link2 {
         position: fixed;
-        left: 1500px;
-        top: 25px;
-    }
-    
+        right: 5vw; 
+        top: 5vh; 
+        }
+
     .menu-link1 {
         position: fixed;
-    }
+        left: 5vw; 
+        top: 5vh; 
+        }
