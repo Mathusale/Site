@@ -38,14 +38,15 @@ body {
             max-width: 230px; 
             display: inline-block;
             margin-right: 20px;
-        }
-        
+        }       
         .menu-link2 {
-            position: fixed;
-            left: 1500px;
-            top: 25px;
-        }
-        
+        position: fixed;
+        right: 5vw; 
+        top: 5vh; 
+            }
+                
         .menu-link1 {
             position: fixed;
+            left: 5vw; 
+            top: 5vh;
         }

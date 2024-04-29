@@ -73,16 +73,18 @@ body {
                 
                 .menu-link2 {
                     position: fixed;
-                    bottom: 750px
-                }
+                    left: 5vw; 
+                    top: 20vh; 
+                        }
                 
                 .menu-link1 {
                     position: fixed;
-                }
+                    left: 5vw; 
+                    top: 5vh; 
+                        }
 
                 .menu-link3 {
                     position: fixed;
-                    left: 1500px;
-                    top: 25px;
-
+                    right: 5vw; 
+                    top: 5vh;
                 }
