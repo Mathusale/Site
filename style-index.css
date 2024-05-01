@@ -5,6 +5,8 @@ body {
     padding: 0; /* Remover preenchimento padrão */
     background-color: #fffffffd; /* Cor de fundo neutra */
     color: #070606; 
+    background-image: url(https://th.bing.com/th/id/OIG1.StWBD1wlaQaTgBdCkhgh?w=1024&h=1024&rs=1&pid=ImgDetMain);
+    background-size: cover
 }
 
 /* Cabeçalho */
@@ -32,10 +34,19 @@ main {
 /* Seção de introdução */
 .introducao {
     color: #030303;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 25px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
     margin: 50px;
 }
+
+.card {
+    background-color: #ece7d8;
+    border-radius: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 700px; 
+    margin: 10px auto;
+        }
 
 .introducao img {
     height: 450;
@@ -72,7 +83,7 @@ a:visited {
     text-decoration:wavy;
     text-decoration: double;
     font-stretch: expanded;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 18px;
     padding: 5px;
 }
