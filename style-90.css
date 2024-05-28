@@ -17,11 +17,11 @@ body {
     p {
     color: #2a2727;
     text-align:justify;
-    margin-left: 50px;
+    margin-left: 55px;
     margin-right: 50px; ;
     }
     .card {
-    background-color: #fff;
+    background-color: #d90f0f;
     border-radius: 20px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     padding: 20px;
